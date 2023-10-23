@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "hWYDP5XYd3KHOEvaenCzhuxXEoBtN8IR4nKSDjeaIJyGdGZ0YmbXGuwCsNB7q5kBpCd81hE9WfYBIUYzVJc8Wg==",
+  "dgSpecHash": "/8SyLHBS+dR7M71YNreWxVtY3PjdkHQq2kRyDQC2VBjrrB7Crp09o6MCK9fhkGXuPyOUnebuWJbBCHEV+zaZ2Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ignacio\\Desktop\\Proy_Estru\\CSharp\\CSharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Ignacio\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\Ignacio\\.nuget\\packages\\fsharp.core\\4.5.2\\fsharp.core.4.5.2.nupkg.sha512",
+    "C:\\Users\\Ignacio\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512",
+    "C:\\Users\\Ignacio\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Ignacio\\.nuget\\packages\\scrapysharp\\3.0.0\\scrapysharp.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ignacio\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0-preview1-26216-02\\system.configuration.configurationmanager.4.5.0-preview1-26216-02.nupkg.sha512",
+    "C:\\Users\\Ignacio\\.nuget\\packages\\system.runtime.caching\\4.5.0-preview1-26216-02\\system.runtime.caching.4.5.0-preview1-26216-02.nupkg.sha512",
+    "C:\\Users\\Ignacio\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0-preview1-26216-02\\system.security.cryptography.protecteddata.4.5.0-preview1-26216-02.nupkg.sha512",
+    "C:\\Users\\Ignacio\\.nuget\\packages\\wordcloudsharp\\1.1.0\\wordcloudsharp.1.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

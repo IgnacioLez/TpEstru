@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="30.0.1" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.54" />
+    <PackageReference Include="ScrapySharp" Version="3.0.0" />
+    <PackageReference Include="WordCloudSharp" Version="1.1.0" />
+    <Compile Include="Parte1.cs" />
+  </ItemGroup>
+
 </Project>
